@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Em sẽ không giận dỗi anh nữa và sẽ không buồn, em phải luôn vui vẻ nhé',
     btnReply: 'Em yêu anh <3',
     reply: 'Thôi được rồi, em đồng ý',
-    mess: 'Anh biết mà. Yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết mà. Yêu em nhiều nhiều 😘',
     messDesc: 'Anh đã mất công viết cái này, em phải đọc cho hết đấy nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://drive.google.com/file/d/12uZwLa2HDYxTuW1hj-12aH833z9_uCHx/view?usp=drivesdk' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
