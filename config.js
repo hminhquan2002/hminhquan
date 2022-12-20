@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "BẢN KIỂM ĐIỂM",
     introTitle: 'Narciso trắng ❤️',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    introDesc: `Em ơi! Anh đã sai rồi
+    Xin em tha thứ lỗi lầm của anh.
+    Ngàn lời xin lỗi chân thành,
+    Mong em tha thứ cho anh vơi buồn. `,
+    btnIntro: 'Vâng 🥺',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
